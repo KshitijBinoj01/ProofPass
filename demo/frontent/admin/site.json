@@ -1,0 +1,10 @@
+{
+  "description": "Streamline university credential management with a secure admin dashboard for registrars, featuring student data oversight and credential issuance.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
