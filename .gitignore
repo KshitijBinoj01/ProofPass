@@ -1,0 +1,5 @@
+.idea/
+backend/venv/
+backend/__pycache__/
+backend/issuer_private_key.pem
+backend/proofpass.db
